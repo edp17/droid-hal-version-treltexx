@@ -4,8 +4,8 @@
 %define vendor samsung
 
 # Manufacturer and device name to be shown in UI
-%define vendor_pretty Galaxy Note4
-%define device_pretty Samsung
+%define vendor_pretty Samsung
+%define device_pretty Galaxy Note 4
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
